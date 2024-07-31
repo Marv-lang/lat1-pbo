@@ -1,0 +1,30 @@
+head{
+    background-image: url(pgri.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body{
+    background-image: url(wp8574115-4k-black-oled-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.social-icon{
+    color: white;
+    border-radius: 4px;
+    width: 200px;
+    border: 2px solid #ffff;
+    padding: 2px;
+    margin: 10px;
+    position: absolute;
+    justify-content: left;
+    bottom: 10px;
+    left: 1px;
+    
+}
+
